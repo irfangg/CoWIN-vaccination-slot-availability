@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/CoWIN-vaccination-slot-availability/static/css/main.4c6578a4.chunk.css",
-    "main.js": "/CoWIN-vaccination-slot-availability/static/js/main.245ae837.chunk.js",
-    "main.js.map": "/CoWIN-vaccination-slot-availability/static/js/main.245ae837.chunk.js.map",
+    "main.css": "/CoWIN-vaccination-slot-availability/static/css/main.aef03d10.chunk.css",
+    "main.js": "/CoWIN-vaccination-slot-availability/static/js/main.033c1dee.chunk.js",
+    "main.js.map": "/CoWIN-vaccination-slot-availability/static/js/main.033c1dee.chunk.js.map",
     "runtime-main.js": "/CoWIN-vaccination-slot-availability/static/js/runtime-main.8b8ea611.js",
     "runtime-main.js.map": "/CoWIN-vaccination-slot-availability/static/js/runtime-main.8b8ea611.js.map",
     "static/css/2.150d169a.chunk.css": "/CoWIN-vaccination-slot-availability/static/css/2.150d169a.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.5757e546.chunk.js.map": "/CoWIN-vaccination-slot-availability/static/js/3.5757e546.chunk.js.map",
     "index.html": "/CoWIN-vaccination-slot-availability/index.html",
     "static/css/2.150d169a.chunk.css.map": "/CoWIN-vaccination-slot-availability/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.4c6578a4.chunk.css.map": "/CoWIN-vaccination-slot-availability/static/css/main.4c6578a4.chunk.css.map",
+    "static/css/main.aef03d10.chunk.css.map": "/CoWIN-vaccination-slot-availability/static/css/main.aef03d10.chunk.css.map",
     "static/js/2.1662165d.chunk.js.LICENSE.txt": "/CoWIN-vaccination-slot-availability/static/js/2.1662165d.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/CoWIN-vaccination-slot-availability/static/media/logo.6ce24c58.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.8b8ea611.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.1662165d.chunk.js",
-    "static/css/main.4c6578a4.chunk.css",
-    "static/js/main.245ae837.chunk.js"
+    "static/css/main.aef03d10.chunk.css",
+    "static/js/main.033c1dee.chunk.js"
   ]
 }
